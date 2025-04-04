@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 753ff912b5edb4f439e9d1e7afcfba97
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236041
+  packageName: Autolevel
+  packageVersion: 1.1
+  assetPath: Assets/AlAsl/AutoLevel Examples/Demo/Dungeon/RTSCharcter/Prefabs/Camera
+    Setup.prefab
+  uploadId: 566571

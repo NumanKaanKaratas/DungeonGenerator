@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f26596b7606ba4055b7acbf30325e105
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187845
+  packageName: 2.5D Dungeon Demo Project - Great for VR & more
+  packageVersion: 1.0
+  assetPath: Assets/InfinityPBR/_Demo Projects/Dungeon - 2.5D Game Demo/Prefabs/Ceiling
+    - Camera Facing.prefab
+  uploadId: 413860

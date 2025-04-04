@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e9927dd9639848646bc7489ce834c272
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236041
+  packageName: Autolevel
+  packageVersion: 1.1
+  assetPath: Assets/AlAsl/Alasl-Tools/Runtime/Scripts/SList.cs
+  uploadId: 566571

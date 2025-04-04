@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 68b94561cf2079c47ac1b867f7b18eda
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236041
+  packageName: Autolevel
+  packageVersion: 1.1
+  assetPath: Assets/AlAsl/AutoLevel Examples/Demo/Dungeon/RTSCharcter/Prefabs/Marker.prefab
+  uploadId: 566571

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9d7b91496a8b56b4d941c7d961a38f41
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236041
+  packageName: Autolevel
+  packageVersion: 1.1
+  assetPath: Assets/AlAsl/Alasl-Tools/Runtime/Scripts/MeshUtility.cs
+  uploadId: 566571

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9e027af204b4bc844bc6b550182560da
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236041
+  packageName: Autolevel
+  packageVersion: 1.1
+  assetPath: Assets/AlAsl/AutoLevel/Editor/Scripts/BaseRepoEntityEditor.cs
+  uploadId: 566571

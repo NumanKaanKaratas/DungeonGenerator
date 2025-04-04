@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c1b86b80fa0cc9d4d889cdd3ea566666
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236041
+  packageName: Autolevel
+  packageVersion: 1.1
+  assetPath: Assets/AlAsl/Alasl-Tools/Runtime/Scripts/BiDirectionalList.cs
+  uploadId: 566571

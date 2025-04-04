@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 21d63cb70b4af9d43924d5f130f0c3be
+timeCreated: 1467794513
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 67195
+  packageName: Procedural Room Dungeon Generator
+  packageVersion: 1.2
+  assetPath: Assets/Room Dungeon Generator/01.Scenes/Room.unity
+  uploadId: 139876

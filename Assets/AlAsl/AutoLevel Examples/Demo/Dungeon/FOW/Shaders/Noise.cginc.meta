@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 11530fe94fdb27f44926a9790601c7aa
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236041
+  packageName: Autolevel
+  packageVersion: 1.1
+  assetPath: Assets/AlAsl/AutoLevel Examples/Demo/Dungeon/FOW/Shaders/Noise.cginc
+  uploadId: 566571

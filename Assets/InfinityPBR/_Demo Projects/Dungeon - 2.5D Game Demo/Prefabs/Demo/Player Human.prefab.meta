@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4e8ebce561b864b9082f9c34f98088cd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187845
+  packageName: 2.5D Dungeon Demo Project - Great for VR & more
+  packageVersion: 1.0
+  assetPath: Assets/InfinityPBR/_Demo Projects/Dungeon - 2.5D Game Demo/Prefabs/Demo/Player
+    Human.prefab
+  uploadId: 413860

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 67d4e65fb1e12044fa3e5853defd05cb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236041
+  packageName: Autolevel
+  packageVersion: 1.1
+  assetPath: Assets/AlAsl/Alasl-Tools/Runtime/Scripts/MathUtility.cs
+  uploadId: 566571

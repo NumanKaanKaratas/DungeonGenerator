@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &170384
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 443492}
+  - component: {fileID: 6969190965988220575}
+  m_Layer: 0
+  m_Name: Map
+  m_TagString: Map
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &443492
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 170384}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6969190965988220575
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 170384}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: adf343a64a7246544b48a3b1c4dd90bb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  RoomCount: 0
+  MapSize:
+    x: 0
+    z: 0
+  RoomSize:
+    Min: 0
+    Max: 0
+  CorridorWidth:
+    Min: 0
+    Max: 0
+  GenerationStepDelay: 0
+  RoomPrefab: {fileID: 11430952, guid: b3b927ea3b312d04f8f06a707159fa41, type: 3}
+  RoomSettings:
+  - floor: {fileID: 2100000, guid: bd005e128814d8e4192554161dd8e266, type: 2}
+    wall: {fileID: 2100000, guid: bddce67126de67643a251bae514f0970, type: 2}
+    door: {fileID: 2100000, guid: 60f379a56af9f5b4888baed1c2b357f0, type: 2}
+  - floor: {fileID: 2100000, guid: 60f379a56af9f5b4888baed1c2b357f0, type: 2}
+    wall: {fileID: 2100000, guid: bddce67126de67643a251bae514f0970, type: 2}
+    door: {fileID: 2100000, guid: bd005e128814d8e4192554161dd8e266, type: 2}
+  - floor: {fileID: 2100000, guid: bddce67126de67643a251bae514f0970, type: 2}
+    wall: {fileID: 2100000, guid: bddce67126de67643a251bae514f0970, type: 2}
+    door: {fileID: 2100000, guid: bd005e128814d8e4192554161dd8e266, type: 2}
+  PlacementType: 0
+  ConnectionMethod: 0

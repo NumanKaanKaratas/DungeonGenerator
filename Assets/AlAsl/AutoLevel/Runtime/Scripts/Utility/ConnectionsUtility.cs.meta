@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 839bea5cbffa49140bfbc2d50656f5a0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236041
+  packageName: Autolevel
+  packageVersion: 1.1
+  assetPath: Assets/AlAsl/AutoLevel/Runtime/Scripts/Utility/ConnectionsUtility.cs
+  uploadId: 566571

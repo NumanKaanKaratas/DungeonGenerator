@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cd207cbbbb2d9d94cb1641c721eb88fe
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236041
+  packageName: Autolevel
+  packageVersion: 1.1
+  assetPath: Assets/AlAsl/AutoLevel/Editor/AutoLevel.Editor.asmdef
+  uploadId: 566571

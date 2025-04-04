@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 81eac131d3d703343ac6c708df8bf555
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236041
+  packageName: Autolevel
+  packageVersion: 1.1
+  assetPath: Assets/AlAsl/AutoLevel/Editor/Scripts/Resources/Repo Entities Settings.asset
+  uploadId: 566571

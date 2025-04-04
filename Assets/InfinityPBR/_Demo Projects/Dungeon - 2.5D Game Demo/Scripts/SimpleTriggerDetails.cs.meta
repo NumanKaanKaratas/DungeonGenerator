@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0d82732e19673413f9c3592a596553b1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187845
+  packageName: 2.5D Dungeon Demo Project - Great for VR & more
+  packageVersion: 1.0
+  assetPath: Assets/InfinityPBR/_Demo Projects/Dungeon - 2.5D Game Demo/Scripts/SimpleTriggerDetails.cs
+  uploadId: 413860

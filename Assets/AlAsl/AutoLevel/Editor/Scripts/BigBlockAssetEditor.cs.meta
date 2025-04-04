@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0ed219b6b98fad646b181f25ecd2a6bb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236041
+  packageName: Autolevel
+  packageVersion: 1.1
+  assetPath: Assets/AlAsl/AutoLevel/Editor/Scripts/BigBlockAssetEditor.cs
+  uploadId: 566571
